@@ -3,6 +3,8 @@
 Data used in the blog post http://jmbh.github.io/Estimation-of-mixed-graphical-models/
 
 
+
+
 The *.RDS file is an R list, including
 
 $data the data (3521 observations x 28 variables)
